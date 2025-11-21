@@ -1,0 +1,3 @@
+Sitemap: https://dodone.anfo.fun/sitemap.xml
+User-agent:*
+Disallow:
