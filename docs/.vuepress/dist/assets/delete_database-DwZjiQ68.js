@@ -1,0 +1,1 @@
+const t="/documentation/steps/setting/language.png",s="/documentation/steps/setting/create_database.png",e="/documentation/steps/setting/switch_database.png",a="/documentation/steps/setting/delete_database.png";export{t as _,s as a,e as b,a as c};

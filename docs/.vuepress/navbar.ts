@@ -15,7 +15,49 @@ export const zhNavbar = defineNavbarConfig([
 
 export const enNavbar = defineNavbarConfig([
   {
-    text: "Notes",
+    text: "Product Documentation",
     link: "/en/product/README.md",
+  },
+]);
+
+export const jaNavbar = defineNavbarConfig([
+  {
+    text: "製品ドキュメント",
+    link: "/ja/product/",
+  },
+]);
+
+export const koNavbar = defineNavbarConfig([
+  {
+    text: "제품 문서",
+    link: "/ko/product/",
+  },
+]);
+
+export const deNavbar = defineNavbarConfig([
+  {
+    text: "Produktdokumentation",
+    link: "/de/product/",
+  },
+]);
+
+export const esNavbar = defineNavbarConfig([
+  {
+    text: "Documentación del producto",
+    link: "/es/product/",
+  },
+]);
+
+export const frNavbar = defineNavbarConfig([
+  {
+    text: "Documentation du produit",
+    link: "/fr/product/",
+  },
+]);
+
+export const ruNavbar = defineNavbarConfig([
+  {
+    text: "Документация продукта",
+    link: "/ru/product/",
   },
 ]);

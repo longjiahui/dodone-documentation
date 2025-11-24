@@ -27,6 +27,36 @@ export default defineUserConfig({
       lang: "en-US",
       description: "",
     },
+    "/de/": {
+      title: "dodone Dokumentation",
+      lang: "de-DE",
+      description: "",
+    },
+    "/fr/": {
+      title: "Documentation dodone",
+      lang: "fr-FR",
+      description: "",
+    },
+    // "/es/": {
+    //   title: "Documentación de dodone",
+    //   lang: "es-ES",
+    //   description: "",
+    // },
+    "/ja/": {
+      title: "dodone ドキュメント",
+      lang: "ja-JP",
+      description: "",
+    },
+    "/ko/": {
+      title: "dodone 문서",
+      lang: "ko-KR",
+      description: "",
+    },
+    "/ru/": {
+      title: "Документация dodone",
+      lang: "ru-RU",
+      description: "",
+    },
   },
 
   head: [

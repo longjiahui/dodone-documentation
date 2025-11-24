@@ -1,0 +1,1 @@
+const o="/documentation/steps/group/group_create1.png",t="/documentation/steps/group/group_create2.png",p="/documentation/steps/group/group_update.png",s="/documentation/steps/group/group_archive.png",e="/documentation/steps/group/group_cancel_archive.png",n="/documentation/steps/group/group_delete.png";export{o as _,t as a,p as b,s as c,e as d,n as e};

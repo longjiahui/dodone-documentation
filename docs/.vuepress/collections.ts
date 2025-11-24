@@ -28,6 +28,18 @@ import { defineCollection, defineCollections } from "vuepress-theme-plume";
 
 /* =================== locale: zh-CN ======================= */
 
+const sidebar = (prefix: string = "") => [
+  prefix + "/product/",
+  prefix + "/product/taskgroup",
+  prefix + "/product/task",
+  prefix + "/product/tasklist",
+  prefix + "/product/taskanchor",
+  prefix + "/product/taskview",
+  prefix + "/product/nexttask",
+  prefix + "/product/doingwindow",
+  prefix + "/product/setting",
+];
+
 const zhProductDocs = defineCollection({
   // doc 类型，该类型带有侧边栏
   type: "doc",
@@ -36,23 +48,13 @@ const zhProductDocs = defineCollection({
   // `dir` 所指向的目录中的所有 markdown 文件，其 permalink 需要以 `linkPrefix` 配置作为前缀
   // 如果 前缀不一致，则无法生成侧边栏。
   // 所以请确保  markdown 文件的 permalink 都以 `/` + `linkPrefix` 开头
-  linkPrefix: "/product",
+  // linkPrefix: "/product",
   // 文档标题，它将用于在页面的面包屑导航中显示
   title: "产品文档",
   // 手动配置侧边栏结构
   // sidebar: ["", "foo", "bar"],
   // 根据文件结构自动生成侧边栏
-  sidebar: [
-    "/product/",
-    "/product/taskgroup",
-    "/product/task",
-    "/product/tasklist",
-    "/product/taskanchor",
-    "/product/taskview",
-    "/product/nexttask",
-    "/product/doingwindow",
-    "/product/setting",
-  ],
+  sidebar: sidebar(),
 });
 
 /**
@@ -72,13 +74,14 @@ const enProductDocs = defineCollection({
   // `dir` 所指向的目录中的所有 markdown 文件，其 permalink 需要以 `linkPrefix` 配置作为前缀
   // 如果 前缀不一致，则无法生成侧边栏。
   // 所以请确保  markdown 文件的 permalink 都以 `/en/` + `linkPrefix` 开头
-  linkPrefix: "/product",
+  // linkPrefix: "/en/product",
   // 文档标题，它将用于在页面的面包屑导航中显示
-  title: "Demo",
+  title: "Product Documentation",
   // 手动配置侧边栏结构
   // sidebar: ["", "foo", "bar"],
   // 根据文件结构自动生成侧边栏
-  sidebar: "auto",
+  // sidebar: sidebar("/en"),
+  sidebar: sidebar("/en"),
 });
 
 /**
@@ -87,3 +90,69 @@ const enProductDocs = defineCollection({
  *  (enDemoDoc 为参考示例，如果不需要它，请删除)
  */
 export const enCollections = defineCollections([enProductDocs]);
+
+/* =================== locale: ja ======================= */
+
+const jaProductDocs = defineCollection({
+  type: "doc",
+  dir: "product",
+  title: "製品ドキュメント",
+  sidebar: sidebar("/ja"),
+});
+
+export const jaCollections = defineCollections([jaProductDocs]);
+
+/* =================== locale: ko ======================= */
+
+const koProductDocs = defineCollection({
+  type: "doc",
+  dir: "product",
+  title: "제품 문서",
+  sidebar: sidebar("/ko"),
+});
+
+export const koCollections = defineCollections([koProductDocs]);
+
+/* =================== locale: de ======================= */
+
+const deProductDocs = defineCollection({
+  type: "doc",
+  dir: "product",
+  title: "Produktdokumentation",
+  sidebar: sidebar("/de"),
+});
+
+export const deCollections = defineCollections([deProductDocs]);
+
+/* =================== locale: es ======================= */
+
+const esProductDocs = defineCollection({
+  type: "doc",
+  dir: "product",
+  title: "Documentación del producto",
+  sidebar: sidebar("/es"),
+});
+
+export const esCollections = defineCollections([esProductDocs]);
+
+/* =================== locale: fr ======================= */
+
+const frProductDocs = defineCollection({
+  type: "doc",
+  dir: "product",
+  title: "Documentation du produit",
+  sidebar: sidebar("/fr"),
+});
+
+export const frCollections = defineCollections([frProductDocs]);
+
+/* =================== locale: ru ======================= */
+
+const ruProductDocs = defineCollection({
+  type: "doc",
+  dir: "product",
+  title: "Документация продукта",
+  sidebar: sidebar("/ru"),
+});
+
+export const ruCollections = defineCollections([ruProductDocs]);

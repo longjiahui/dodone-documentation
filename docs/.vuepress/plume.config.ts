@@ -11,8 +11,26 @@
  */
 
 import { defineThemeConfig } from "vuepress-theme-plume";
-import { enCollections, zhCollections } from "./collections";
-import { enNavbar, zhNavbar } from "./navbar";
+import {
+  enCollections,
+  zhCollections,
+  jaCollections,
+  koCollections,
+  deCollections,
+  esCollections,
+  frCollections,
+  ruCollections,
+} from "./collections";
+import {
+  enNavbar,
+  zhNavbar,
+  jaNavbar,
+  koNavbar,
+  deNavbar,
+  esNavbar,
+  frNavbar,
+  ruNavbar,
+} from "./navbar";
 
 /**
  * @see https://theme-plume.vuejs.press/config/basic/
@@ -110,6 +128,60 @@ export default defineThemeConfig({
       //   title: '',
       //   content: '',
       // },
+    },
+    "/ja/": {
+      profile: {
+        avatar: "/icon.png",
+        name: "doDone ドキュメント",
+        description: "",
+      },
+      navbar: jaNavbar,
+      collections: jaCollections,
+    },
+    "/ko/": {
+      profile: {
+        avatar: "/icon.png",
+        name: "doDone 문서",
+        description: "",
+      },
+      navbar: koNavbar,
+      collections: koCollections,
+    },
+    "/de/": {
+      profile: {
+        avatar: "/icon.png",
+        name: "doDone Dokumentation",
+        description: "",
+      },
+      navbar: deNavbar,
+      collections: deCollections,
+    },
+    // "/es/": {
+    //   profile: {
+    //     avatar: "/icon.png",
+    //     name: "doDone Documentación",
+    //     description: "",
+    //   },
+    //   navbar: esNavbar,
+    //   collections: esCollections,
+    // },
+    "/fr/": {
+      profile: {
+        avatar: "/icon.png",
+        name: "doDone Documentation",
+        description: "",
+      },
+      navbar: frNavbar,
+      collections: frCollections,
+    },
+    "/ru/": {
+      profile: {
+        avatar: "/icon.png",
+        name: "doDone Документация",
+        description: "",
+      },
+      navbar: ruNavbar,
+      collections: ruCollections,
     },
   },
 });

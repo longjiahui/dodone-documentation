@@ -1,7 +1,7 @@
 ---
 title: 任务视图
 createTime: 2025/11/21 13:22:20
-permalink: /product/eq06lrht/
+permalink: /product/2fp9kot5/
 ---
 
 # 任务视图
