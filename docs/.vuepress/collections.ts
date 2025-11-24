@@ -42,7 +42,17 @@ const zhProductDocs = defineCollection({
   // 手动配置侧边栏结构
   // sidebar: ["", "foo", "bar"],
   // 根据文件结构自动生成侧边栏
-  sidebar: "auto",
+  sidebar: [
+    "/product/",
+    "/product/taskgroup",
+    "/product/task",
+    "/product/tasklist",
+    "/product/taskanchor",
+    "/product/taskview",
+    "/product/nexttask",
+    "/product/doingwindow",
+    "/product/setting",
+  ],
 });
 
 /**

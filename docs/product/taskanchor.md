@@ -12,4 +12,8 @@ permalink: /product/sxh0rdz8/
 
 ### 设置任务锚点
 
+![set](/steps/taskanchor/set.png)
+
 ### 取消任务锚点
+
+![set](/steps/taskanchor/unset.png)
