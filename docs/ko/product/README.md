@@ -4,4 +4,4 @@ createTime: 2025/11/21 13:10:09
 permalink: /ko/product/
 ---
 
-문의 사항이 있으시면 `longjiahui@hotmail.com` 으로 직접 연락해 주세요。
+문의 사항이 있으시면 직접 연락 주세요 `longjiahui@hotmail.com`

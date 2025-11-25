@@ -1,22 +1,20 @@
 ---
-title: Fenêtre en cours
+title: Fenêtre « En cours »
 createTime: 2025/11/21 14:31:10
-permalink: /fr/product/rpb2fajn/
+permalink: /fr/product/yrxbeliw/
 ---
 
-# Fenêtre en cours
+La fenêtre « En cours » affiche la tâche sur laquelle vous travaillez actuellement. Elle a deux modes :
 
-La fenêtre en cours affiche la tâche sur laquelle vous travaillez actuellement et propose deux modes :
+- Définir une tâche spécifique à afficher dans la fenêtre « En cours »
+- Lire automatiquement le planning pour obtenir la tâche actuelle
 
-- Définir une tâche spécifique à afficher dans la fenêtre en cours
-- Lire automatiquement l'agenda pour obtenir la tâche en cours
+## Ouvrir la fenêtre « En cours »
 
-## Ouvrir la fenêtre en cours
-
-### Ouvrir depuis la barre d'outils de la tâche — définit une tâche spécifique dans la fenêtre en cours
+### Ouvrir depuis la barre d'outils de la tâche - Définit une tâche spécifique dans la fenêtre « En cours »
 
 ![open](/steps/doingwindow/open1.png)
 
-### Ouvrir depuis la fenêtre principale — lit automatiquement les tâches de l'agenda
+### Ouvrir depuis la fenêtre principale - Lit automatiquement les tâches du planning
 
 ![open](/steps/doingwindow/open2.png)

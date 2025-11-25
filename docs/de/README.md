@@ -13,5 +13,5 @@ config:
           link:
         - theme: alt
           text: Produktdokumentation →
-          link: /de/product/
+          link: ./product/
 ---

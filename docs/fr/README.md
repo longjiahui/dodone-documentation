@@ -3,15 +3,15 @@ home: true
 config:
   - type: doc-hero
     hero:
-      name: doDone Documentation
+      name: Documentation doDone
       #   text: VuePress Next Theme
-      tagline: Documentation produit de l'application doDone
+      tagline: Documentation du produit doDone App
       image: /icon.png
       actions:
         - theme: brand
           text: 🔗 Mac App Store
           link:
         - theme: alt
-          text: Documentation produit →
-          link: /fr/product/
+          text: Documentation du produit →
+          link: ./product/
 ---

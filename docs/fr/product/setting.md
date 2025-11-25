@@ -1,20 +1,18 @@
 ---
 title: Paramètres
 createTime: 2025/11/21 14:27:18
-permalink: /fr/product/c9fwbnj6/
+permalink: /fr/product/tcrvvnon/
 ---
-
-# Opérations de paramétrage
 
 ## Paramètres de langue
 
-Définissez la langue.
+Définir la langue
 
 ![language](/steps/setting/language.png)
 
-## Paramètres de la base de données
+## Paramètres de base de données
 
-Une base de données est un fichier qui stocke toutes les données pertinentes. La création d'une nouvelle base de données équivaut à la création d'un tout nouvel espace de données pour stocker de nouvelles données. Si le fichier de la base de données précédent devient trop volumineux et cause des lenteurs, vous pouvez essayer de créer un nouveau fichier.
+Une base de données est un fichier qui stocke toutes les données associées. La création d'une nouvelle base de données équivaut à créer un tout nouvel espace de données pour stocker de nouvelles données. Lorsque le fichier de base de données précédent devient trop volumineux et ralentit, vous pouvez essayer d'ouvrir un nouveau fichier.
 
 ### Opérations sur la base de données
 
@@ -22,16 +20,16 @@ Une base de données est un fichier qui stocke toutes les données pertinentes. 
 
 ![database](/steps/setting/create_database.png)
 
-#### Basculer de base de données
+#### Changer de base de données
 
 ![database](/steps/setting/switch_database.png)
 
-#### Supprimer une base de données
+#### Supprimer la base de données
 
 :::warning
-La suppression d'une base de données est irréversible. Veuillez faire preuve de prudence.
+La suppression de la base de données est irréversible. Veuillez procéder avec prudence.
 :::
 
-Vous ne pouvez pas supprimer la base de données actuellement utilisée. Si vous devez la supprimer, créez d'abord une base de données vide et basculez dessus avant d'effectuer la suppression.
+Vous ne pouvez pas supprimer la base de données actuellement utilisée. Si vous devez la supprimer, veuillez d'abord créer une base de données vierge, basculer vers la nouvelle base de données, puis procéder à la suppression.
 
 ![database](/steps/setting/delete_database.png)

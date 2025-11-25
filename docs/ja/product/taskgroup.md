@@ -1,43 +1,41 @@
 ---
 title: タスクグループ
 createTime: 2025/11/21 12:47:35
-permalink: /ja/product/qmgxl64c/
+permalink: /ja/product/crka4brj/
 ---
 
-# タスクグループ
+タスクのコレクション。すべてのタスクはグループに含まれている必要があります。
 
-タスクの集合です。すべてのタスクは必ずどこかのグループに入ります。
-
-## タスクグループの属性
+## タスクグループのプロパティ
 
 - 名前
-- アイコン（デフォルトはフォルダ）
+- アイコン（デフォルトアイコンはフォルダ）
 - テーマカラー
 - 説明
 
 ## タスクグループの操作
 
-### グループの作成
+### グループを作成
 
 ![group-create-1](/steps/group/group_create1.png)
 ![group-create-2](/steps/group/group_create2.png)
 
-### グループの編集
+### グループを編集
 
 ![group-update](/steps/group/group_update.png)
 
-### グループのアーカイブ
+### グループをアーカイブ
 
 ![group-archive](/steps/group/group_archive.png)
 
-### アーカイブの解除
+### グループのアーカイブを解除
 
 ![group-cancel-archive](/steps/group/group_cancel_archive.png)
 
-### グループの削除
+### グループを削除
 
 :::warning
-削除操作は元に戻せません。グループ内のすべてのタスクも同時に削除されます。慎重に操作してください。
+削除は元に戻せません。グループ内のすべてのタスクも削除されます。慎重に操作してください。
 :::
 
 ![group-delete](/steps/group/group_delete.png)

@@ -1,10 +1,8 @@
 ---
 title: 任务列表功能说明
 createTime: 2025/11/21 14:23:04
-permalink: /product/3icy8s3l/
+permalink: /product/g0atacn3/
 ---
-
-# 任务列表功能
 
 任务列表有一些方便的功能，使用筛选功能后任务列表的顺序不能被调整，只能使用自动排序，但可以设置排序规则。
 

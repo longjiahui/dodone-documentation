@@ -1,29 +1,27 @@
 ---
 title: Recurring Tasks
 createTime: 2025/11/21 12:47:35
-permalink: /en/product/57z8qw6j/
+permalink: /en/product/vvs69yrf/
 ---
 
-# Recurring Tasks
+Recurring tasks in dodone may differ from other software tools. More accurately, it's "next task". Future recurring tasks are not pre-created, but rather prompted for creation when you complete the current task. For example, if you set a daily recurring task, when you complete the task, you'll be prompted to create the next task with the date set to the next day.
 
-Recurring tasks in dodone may differ slightly from other productivity tools. More precisely, they are "next-time tasks." Future recurring tasks are not pre-created; instead, you are prompted to create the next task when you complete the current one. For example, if you set up a daily recurring task, completing it will prompt you to create the next task, with the suggested time set to the following day.
+If you set recurrence on a parent task, when prompted to create the next task, subtasks will be automatically copied.
 
-If you set up a recurring task on a parent task, the system will automatically copy all subtasks when prompting to create the next task.
-
-Both parent and child tasks can have subtasks, and all follow the rules described above.
+Both parent and child tasks can have recurrence settings, and all follow the rules described above.
 
 ## Recurring Task Properties
 
-- a: Repeat every N days
-- b: Rest interval for each cycle. If set to 2, the first cycle rests 1 day, the second doesn't rest; if set to 3, the first cycle rests 1 day, the second rests 2 days, the third doesn't rest.
-- endDate: End date. After this date, the system will no longer prompt to create the next task.
+- a - Recur every N days
+- b - Rest interval per cycle. If set to 2, the first time rests 1 day, the second time doesn't rest; if set to 3, the first time rests 1 day, the second time rests 2 days, the third time doesn't rest.
+- endDate - End date. After the end date, no more prompts to create next tasks.
 
 ## Operations
 
-### Set up Recurring Task
+### Set Recurring Task
 
-![next-task](/steps/nexttask/set.png);
+![next-task](/steps/nexttask/set.png)
 
 ### Remove Recurring Task Setting
 
-![next-task](/steps/nexttask/unset.png);
+![next-task](/steps/nexttask/unset.png)

@@ -1,12 +1,10 @@
 ---
 title: Groupe de tâches
 createTime: 2025/11/21 12:47:35
-permalink: /fr/product/kvye5ytr/
+permalink: /fr/product/nbh45x8b/
 ---
 
-# Groupe de tâches
-
-Un ensemble de tâches. Toutes les tâches doivent appartenir à un groupe.
+Une collection de tâches. Toutes les tâches doivent être contenues dans un groupe.
 
 ## Propriétés du groupe de tâches
 
@@ -15,7 +13,7 @@ Un ensemble de tâches. Toutes les tâches doivent appartenir à un groupe.
 - Couleur du thème
 - Description
 
-## Opérations sur le groupe de tâches
+## Opérations sur les groupes de tâches
 
 ### Créer un groupe
 
@@ -30,14 +28,14 @@ Un ensemble de tâches. Toutes les tâches doivent appartenir à un groupe.
 
 ![group-archive](/steps/group/group_archive.png)
 
-### Annuler l'archivage
+### Désarchiver un groupe
 
 ![group-cancel-archive](/steps/group/group_cancel_archive.png)
 
 ### Supprimer un groupe
 
 :::warning
-La suppression est irréversible. Toutes les tâches du groupe seront également supprimées. Veuillez faire preuve de prudence.
+La suppression est irréversible. Toutes les tâches du groupe seront également supprimées. Veuillez procéder avec prudence.
 :::
 
 ![group-delete](/steps/group/group_delete.png)

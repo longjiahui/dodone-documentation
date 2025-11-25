@@ -1,19 +1,17 @@
 ---
-title: Aufgabenanker
+title: Aufgaben-Anker
 createTime: 2025/11/21 13:22:20
-permalink: /de/product/2azu3alb/
+permalink: /de/product/djj8k4p4/
 ---
 
-# Aufgabenanker
+Wenn Sie 3, 4 oder sogar mehr Ebenen von Unteraufgabenhierarchien erstellt haben, wird die Aufgabenverwaltung umständlich. Aufgaben-Anker können dieses Problem lösen. Anker sind ähnlich wie Lesezeichen – nach dem Hinzufügen eines Ankers können Sie direkt auf die verankerte Aufgabe von der Gruppenebene aus zugreifen.
 
-Wenn Sie 3, 4 oder mehr Ebenen von Unteraufgaben erstellen, kann die Aufgabenverwaltung umständlich werden. Das Erstellen von Ankern kann dieses Problem lösen. Anker sind ähnlich wie Lesezeichen — nachdem Sie einen Anker hinzugefügt haben, können Sie in der Gruppe direkt auf die verankerte Aufgabe zugreifen.
+## Vorgänge
 
-## Aktionen
-
-### Aufgabenanker setzen
+### Aufgaben-Anker setzen
 
 ![set](/steps/taskanchor/set.png)
 
-### Aufgabenanker entfernen
+### Aufgaben-Anker entfernen
 
 ![set](/steps/taskanchor/unset.png)

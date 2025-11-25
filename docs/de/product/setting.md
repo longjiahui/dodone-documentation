@@ -1,22 +1,20 @@
 ---
 title: Einstellungen
 createTime: 2025/11/21 14:27:18
-permalink: /de/product/1lc0b6av/
+permalink: /de/product/zvlej6ta/
 ---
-
-# Einstellungen
 
 ## Spracheinstellungen
 
-Stellen Sie die Sprache ein.
+Sprache einstellen
 
 ![language](/steps/setting/language.png)
 
 ## Datenbankeinstellungen
 
-Eine Datenbank ist eine Datei, die alle relevanten Daten speichert. Das Erstellen einer neuen Datenbank entspricht dem Anlegen eines völlig neuen Datenraums zur Speicherung neuer Daten. Wenn die vorherige Datenbankdatei zu groß wird und zu Verzögerungen führt, können Sie versuchen, eine neue Datei zu erstellen.
+Eine Datenbank ist eine Datei, die alle zugehörigen Daten speichert. Das Erstellen einer neuen Datenbank entspricht dem Erstellen eines brandneuen Datenbereichs zum Speichern neuer Daten. Wenn die vorherige Datenbankdatei zu groß wird und Verzögerungen auftreten, können Sie versuchen, eine neue Datei zu öffnen.
 
-### Datenbankaktionen
+### Datenbankvorgänge
 
 #### Neue Datenbank erstellen
 
@@ -29,9 +27,9 @@ Eine Datenbank ist eine Datei, die alle relevanten Daten speichert. Das Erstelle
 #### Datenbank löschen
 
 :::warning
-Das Löschen einer Datenbank ist unwiderruflich. Bitte vorsichtig handeln.
+Das Löschen der Datenbank ist irreversibel. Bitte mit Vorsicht fortfahren.
 :::
 
-Die aktuell verwendete Datenbank kann nicht gelöscht werden. Wenn Sie sie löschen müssen, erstellen Sie bitte zuerst eine leere Datenbank und wechseln Sie zu dieser, bevor Sie die Löschaktion durchführen.
+Sie können die aktuell verwendete Datenbank nicht löschen. Wenn Sie sie löschen müssen, erstellen Sie bitte zuerst eine leere Datenbank, wechseln Sie zur neuen Datenbank und fahren Sie dann mit dem Löschen fort.
 
 ![database](/steps/setting/delete_database.png)

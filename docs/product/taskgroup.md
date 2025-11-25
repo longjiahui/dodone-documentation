@@ -1,10 +1,8 @@
 ---
 title: 任务分组
 createTime: 2025/11/21 12:47:35
-permalink: /product/0eqntvoc/
+permalink: /product/blawymzo/
 ---
-
-# 任务分组
 
 任务的集合，所有任务都一定会装在一个分组里。
 

@@ -1,12 +1,10 @@
 ---
 title: Task Anchor
 createTime: 2025/11/21 13:22:20
-permalink: /en/product/ue1u059y/
+permalink: /en/product/399hfuc3/
 ---
 
-# Task Anchor
-
-When you create 3, 4 layers, or even more levels of subtask hierarchies, task management can become cumbersome. Creating anchors can solve this problem. Anchors are similar to bookmarks - after adding an anchor, you can directly access the anchored task from the group.
+When you have created 3, 4, or even more layers of subtask hierarchy, task management becomes cumbersome. Task anchors can solve this problem. Anchors are similar to bookmarks - after adding an anchor, you can directly access the anchored task from the group level.
 
 ## Operations
 

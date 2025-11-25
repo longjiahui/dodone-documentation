@@ -1,29 +1,27 @@
 ---
-title: Wiederkehrende Aufgaben
+title: Wiederholende Aufgaben
 createTime: 2025/11/21 12:47:35
-permalink: /de/product/r96c8bzv/
+permalink: /de/product/kk530qb1/
 ---
 
-# Wiederkehrende Aufgaben
+Wiederholende Aufgaben in dodone können sich von anderen Softwaretools unterscheiden. Genauer gesagt ist es „nächste Aufgabe". Zukünftige wiederholende Aufgaben werden nicht vorab erstellt, sondern bei Abschluss der aktuellen Aufgabe zur Erstellung aufgefordert. Wenn Sie beispielsweise eine tägliche wiederholende Aufgabe festlegen, werden Sie beim Abschluss der Aufgabe aufgefordert, die nächste Aufgabe mit dem auf den nächsten Tag festgelegten Datum zu erstellen.
 
-Wiederkehrende Aufgaben in dodone unterscheiden sich möglicherweise etwas von anderen Tools. Genauer gesagt handelt es sich um „nächste Aufgaben“. Zukünftige wiederkehrende Aufgaben werden nicht im Voraus erstellt; stattdessen werden Sie beim Abschließen der aktuellen Aufgabe aufgefordert, die nächste Aufgabe zu erstellen. Wenn Sie z. B. eine tägliche wiederkehrende Aufgabe einrichten, werden Sie beim Abschließen aufgefordert, die nächste Aufgabe zu erstellen, wobei die vorgeschlagene Zeit auf den nächsten Tag gesetzt wird.
+Wenn Sie die Wiederholung für eine Elternaufgabe festlegen, werden Unteraufgaben automatisch kopiert, wenn Sie aufgefordert werden, die nächste Aufgabe zu erstellen.
 
-Wenn Sie die Wiederholung auf eine übergeordnete Aufgabe setzen, werden beim Erstellen der nächsten Aufgabe auch die Unteraufgaben automatisch kopiert.
+Sowohl Eltern- als auch Kindaufgaben können Wiederholungseinstellungen haben, und alle befolgen die oben beschriebenen Regeln.
 
-Sowohl übergeordnete als auch untergeordnete Aufgaben können Unteraufgaben haben, und es gelten die oben beschriebenen Regeln.
+## Eigenschaften wiederholender Aufgaben
 
-## Eigenschaften wiederkehrender Aufgaben
+- a - Alle N Tage wiederholen
+- b - Ruheintervall pro Zyklus. Wenn auf 2 eingestellt, ruht das erste Mal 1 Tag, das zweite Mal nicht; wenn auf 3 eingestellt, ruht das erste Mal 1 Tag, das zweite Mal 2 Tage, das dritte Mal nicht.
+- endDate - Enddatum. Nach dem Enddatum keine weiteren Aufforderungen zum Erstellen der nächsten Aufgaben.
 
-- a: Wiederholung alle N Tage
-- b: Ruheintervall pro Zyklus. Wenn auf 2 gesetzt, ruht der erste Zyklus 1 Tag, der zweite nicht; bei 3 ruht der erste Zyklus 1 Tag, der zweite 2 Tage, der dritte nicht.
-- endDate: Enddatum. Nach diesem Datum wird nicht mehr aufgefordert, die nächste Aufgabe zu erstellen.
+## Vorgänge
 
-## Aktionen
-
-### Wiederkehrende Aufgabe einstellen
+### Wiederholende Aufgabe festlegen
 
 ![next-task](/steps/nexttask/set.png)
 
-### Wiederkehrende Aufgabe-Einstellung entfernen
+### Wiederholungseinstellung entfernen
 
 ![next-task](/steps/nexttask/unset.png)

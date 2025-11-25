@@ -5,7 +5,7 @@ config:
     hero:
       name: doDone 문서
       #   text: VuePress Next Theme
-      tagline: doDone App 제품 문서
+      tagline: doDone 앱 제품 문서
       image: /icon.png
       actions:
         - theme: brand
@@ -13,5 +13,5 @@ config:
           link:
         - theme: alt
           text: 제품 문서 →
-          link: /ko/product/
+          link: ./product/
 ---

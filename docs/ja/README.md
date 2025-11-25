@@ -13,5 +13,5 @@ config:
           link:
         - theme: alt
           text: 製品ドキュメント →
-          link: /ja/product/
+          link: ./product/
 ---

@@ -1,10 +1,8 @@
 ---
 title: 任务
 createTime: 2025/11/21 12:47:35
-permalink: /product/0hrrpe8t/
+permalink: /product/w2wrcjhb/
 ---
-
-# 任务
 
 任务是整个程序最基础的数据。
 
@@ -175,7 +173,7 @@ permalink: /product/0hrrpe8t/
 
 ### 将此任务添加到锚点
 
-参考 [任务锚点](/product/taskanchor)
+参考 [任务锚点](./taskanchor)
 
 ![task-edit-taskanchor](/steps/task/edit_taskanchor1.png)
 ![task-edit-taskanchor](/steps/task/edit_taskanchor2.png)
@@ -200,7 +198,7 @@ permalink: /product/0hrrpe8t/
 
 ### 修改任务重复设置
 
-参考 [重复任务](/product/nexttask)
+参考 [重复任务](./nexttask)
 
 ![task-edit-nexttask](/steps/task/edit_nexttask1.png)
 ![task-edit-nexttask](/steps/task/edit_nexttask2.png)

@@ -1,20 +1,18 @@
 ---
 title: Settings
 createTime: 2025/11/21 14:27:18
-permalink: /en/product/cfpg4iiy/
+permalink: /en/product/525l4cil/
 ---
-
-# Settings Operations
 
 ## Language Settings
 
-Set the language
+Set language
 
 ![language](/steps/setting/language.png)
 
 ## Database Settings
 
-A database is a file that stores all relevant data. Creating a new database is equivalent to creating a completely new data space to store new data. If the previous database file becomes too large and causes lag, you can try creating a new file.
+A database is a file that stores all related data. Creating a new database is equivalent to creating a brand new data space to store new data. When the previous database file becomes too large and laggy, you can try opening a new file.
 
 ### Database Operations
 
@@ -29,9 +27,9 @@ A database is a file that stores all relevant data. Creating a new database is e
 #### Delete Database
 
 :::warning
-Database deletion cannot be undone. Please proceed with caution.
+Database deletion is irreversible. Please proceed with caution.
 :::
 
-You cannot delete the currently active database. If you need to delete it, please first create a blank database and switch to the new database before performing the deletion.
+You cannot delete the database currently in use. If you need to delete it, please create a blank database first, switch to the new database, and then proceed with deletion.
 
 ![database](/steps/setting/delete_database.png)

@@ -1,21 +1,19 @@
 ---
-title: Aufgaben-Gruppe
+title: Aufgabengruppe
 createTime: 2025/11/21 12:47:35
-permalink: /de/product/qebwi1yr/
+permalink: /de/product/ev93l3o8/
 ---
-
-# Aufgaben-Gruppe
 
 Eine Sammlung von Aufgaben. Alle Aufgaben müssen in einer Gruppe enthalten sein.
 
-## Eigenschaften der Aufgaben-Gruppe
+## Aufgabengruppen-Eigenschaften
 
 - Name
-- Icon (Standardicon ist Ordner)
+- Symbol (Standardsymbol ist Ordner)
 - Themenfarbe
 - Beschreibung
 
-## Aktionen für Aufgaben-Gruppen
+## Aufgabengruppen-Vorgänge
 
 ### Gruppe erstellen
 
@@ -30,14 +28,14 @@ Eine Sammlung von Aufgaben. Alle Aufgaben müssen in einer Gruppe enthalten sein
 
 ![group-archive](/steps/group/group_archive.png)
 
-### Archivierung aufheben
+### Archivierung der Gruppe aufheben
 
 ![group-cancel-archive](/steps/group/group_cancel_archive.png)
 
 ### Gruppe löschen
 
 :::warning
-Das Löschen ist unwiderruflich. Alle Aufgaben in der Gruppe werden ebenfalls gelöscht. Bitte vorsichtig handeln.
+Das Löschen ist irreversibel. Alle Aufgaben in der Gruppe werden ebenfalls gelöscht. Bitte mit Vorsicht fortfahren.
 :::
 
 ![group-delete](/steps/group/group_delete.png)

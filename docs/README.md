@@ -13,5 +13,5 @@ config:
           link:
         - theme: alt
           text: 产品文档 →
-          link: /product/
+          link: ./product/
 ---

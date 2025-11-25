@@ -4,15 +4,13 @@ createTime: 2025/11/21 12:47:35
 permalink: /en/product/9ay1adj8/
 ---
 
-# Task Group
-
-A collection of tasks. All tasks must be contained within a group.
+A collection of tasks. All tasks must be contained in a group.
 
 ## Task Group Properties
 
 - Name
 - Icon (default icon is folder)
-- Theme color
+- Theme Color
 - Description
 
 ## Task Group Operations
@@ -37,7 +35,7 @@ A collection of tasks. All tasks must be contained within a group.
 ### Delete Group
 
 :::warning
-Deletion is irreversible. All tasks under the group will be deleted simultaneously. Please proceed with caution.
+Deletion is irreversible. All tasks in the group will be deleted as well. Please proceed with caution.
 :::
 
 ![group-delete](/steps/group/group_delete.png)

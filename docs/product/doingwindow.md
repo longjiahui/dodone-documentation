@@ -1,10 +1,8 @@
 ---
 title: 正在做窗口
 createTime: 2025/11/21 14:31:10
-permalink: /product/7yy03ehc/
+permalink: /product/ylmu60s2/
 ---
-
-# 正在做窗口
 
 正在做窗口会展示当前正在做的任务，有两种模式。
 
