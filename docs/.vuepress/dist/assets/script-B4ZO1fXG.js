@@ -1,0 +1,1 @@
+const t="/documentation/steps/taskview/create.png",s="/documentation/steps/taskview/edit.png",e="/documentation/steps/taskview/delete.png",o="/documentation/steps/taskview/gui.png",n="/documentation/steps/taskview/script.png";export{t as _,s as a,e as b,o as c,n as d};
